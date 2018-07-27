@@ -1,7 +1,4 @@
-# Hello-World
-Testing
-
-Well beautiful, this is stupid thing to do for a checklist, just thought of pointing that out
+# Well beautiful, this is stupid thing to do for a checklist, just thought of pointing that out
 
 **Code Submission Template Question** | **Notes**
 ------------ | -------------
