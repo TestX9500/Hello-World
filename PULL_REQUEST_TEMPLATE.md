@@ -1,6 +1,6 @@
 **Code Submission Template Questions**
 
-- [] I have ensured my commit message includes the rational for the change.
+-[] I have ensured my commit message includes the rational for the change.
 
 < *Describe the rationale for the change* >
 
