@@ -1,6 +1,6 @@
 # Well beautiful, this is stupid thing to do for a checklist, just thought of pointing that out
 
-Checklist **Code Submission Template Question** | **Notes**
+Checklist | **Code Submission Template Question** | **Notes**
 ------------ | ------------ | -------------
 [X] | I have ensured my commit message includes the rational for the change. | Describe the rationale for the change.
 [ ] | I have ensured my commit message includes root cause and description of the fix. | If a defect then describe the root cause and description of fix.
