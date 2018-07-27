@@ -1,4 +1,4 @@
-# beautiful, this is still stupid, but I'll make it work
+# Beautiful, this is still stupid, but I'll make it work
 
 Code Submission Template Questions**
 
