@@ -8,9 +8,9 @@
 
 - [ ] I have ensured my commit message includes root cause and description of the fix.
 
-< *If defect describe root cause and description of fix* >
+< *If defect, describe root cause and description of fix* >
 
-- [ ] I have updated any documentation (HLD/DD/Test Plan) to reflect any changes in behavior.
+- [ ] I have updated any documentation (HLD/DD/Test Plan) to reflect any changes in behaviour.
 
 Note:  If applicable add JIRA ID
 
