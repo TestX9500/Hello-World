@@ -10,7 +10,7 @@
 
 - [ ] I have updated any documentation (HLD/DD/Test Plan) to reflect any changes in behaviour.
 
-Note:  If applicable add JIRA ID
+< *If applicable add JIRA ID* >
 
 - [ ] If my change crosses multiple repos then I have ensured special handling/coordination.
 
