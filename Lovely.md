@@ -1,11 +1,9 @@
 # Hello-World
 Testing
-This is a Test
 
-Oh Well, this is stupid thing to do for a checklist
+Well beautiful, this is stupid thing to do for a checklist, just thought of pointing that out
 
-
-Code Submission Template *Question* | Notes
+**Code Submission Template Question** | **Notes**
 ------------ | -------------
 I have ensured my commit message includes the rational for the change. | Describe the rationale for the change.
 I have ensured my commit message includes root cause and description of the fix. | If a defect then describe the root cause and description of fix.
