@@ -2,7 +2,7 @@
 
 Checklist | **Code Submission Template Question** | **Notes**
 ------------ | ------------ | -------------
-- [X] Test | I have ensured my commit message includes the rationale for the change. | Describe the rationale for the change.
+- [X] I have ensured my commit message includes the rationale for the change. | Describe the rationale for the change.
 - [ ] | I have ensured my commit message includes root cause and description of the fix. | If a defect then describe the root cause and description of fix.
 - [ ] | I have updated any documentation (HLD/DD/Test Plan) to reflect any changes in behavior. | We want the prompt for the developer to take action. If applicable then answer yes with JIRA ID. 
 - [ ] | If my change crosses multiple repos then I have ensured special handling/coordination. | Example: PR could depend on another PR crossing repos. Some ECUs have this condition such as ECG.
